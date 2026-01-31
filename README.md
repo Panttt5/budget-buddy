@@ -1,18 +1,21 @@
 # Budget Buddy 💰
 
-Το **Budget Buddy** είναι ένα απλό εργαλείο γραμμής εντολών (CLI) γραμμένο σε **Python**, το οποίο βοηθάει στην καταγραφή και διαχείριση προσωπικών εξόδων.
+**Budget Buddy** is a simple Command Line Interface (CLI) tool written in **Python** that helps you track and manage your personal expenses.
 
-Αυτό το project δημιουργήθηκε κυρίως για εκπαιδευτικούς σκοπούς, με στόχο την εξάσκηση στο **GitHub Flow** και τη συνεργασία σε κώδικα.
+This project was created primarily for educational purposes, focusing on practicing **GitHub Flow**, code collaboration, and open-source contribution workflows.
 
-## 🚀 Δυνατότητες (Features)
+## 🚀 Features
 
-* ✅ **Προσθήκη Εξόδου:** Καταχώρηση περιγραφής και ποσού.
-* ✅ **Προβολή Λίστας:** Εμφάνιση όλων των καταχωρημένων εξόδων.
-* ✅ **Υπολογισμός Συνόλου:** Αυτόματη άθροιση των εξόδων.
-* ✅ **Αποθήκευση Δεδομένων:** Τα δεδομένα αποθηκεύονται σε αρχείο JSON ώστε να μην χάνονται (Persistence).
-* ✅ **Error Handling:** Προστασία από λανθασμένη εισαγωγή δεδομένων.
+* ✅ **Add Expense:** Record a description and amount for your purchase.
+* ✅ **View Expenses:** Display a list of all recorded expenses.
+* ✅ **Calculate Total:** Automatically calculate the sum of all expenses.
+* ✅ **Data Persistence:** Data is saved in a JSON file so it isn't lost after closing the program.
+* ✅ **Error Handling:** Protects against invalid user input (e.g., non-numeric values).
 
-## 🛠️ Τεχνολογίες
+## 🛠️ Tech Stack
 
 * Python 3.x
-* JSON (για αποθήκευση δεδομένων)
+* JSON (for data storage)
+
+## 📦 Installation & Usage
+
